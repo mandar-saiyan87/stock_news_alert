@@ -1,0 +1,6 @@
+symbol,name,type,region,marketOpen,marketClose,timezone,currency,matchScore
+TL0.DEX,Tesla,Equity,XETRA,08:00,20:00,UTC+02,EUR,1.0000
+TL0.FRK,Tesla,Equity,Frankfurt,08:00,20:00,UTC+02,EUR,1.0000
+TSLA34.SAO,Tesla,Equity,Brazil/Sao Paolo,10:00,17:30,UTC-03,BRL,1.0000
+TSLA,Tesla Inc,Equity,United States,09:30,16:00,UTC-04,USD,0.8889
+TXLZF,Tesla Exploration Ltd,Equity,United States,09:30,16:00,UTC-04,USD,0.4000
